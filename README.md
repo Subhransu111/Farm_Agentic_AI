@@ -3,13 +3,13 @@
 
 This is a project demonstrating an AI agent for agricultural applications, built with Streamlit and deployed on the Streamlit Community Cloud.
 
-## Features
+## Features:
 
 -   Analyzes farm data to provide insights.
 -   Uses a large language model to generate recommendations.
 -   Interactive and user-friendly web interface.
 
-## Running the App
+## Running the App:
 
 You can view the live deployed application here:
 https://farmagenticai-4qgb6abvejtpbenwelu7fx.streamlit.app/
@@ -17,7 +17,7 @@ https://farmagenticai-4qgb6abvejtpbenwelu7fx.streamlit.app/
 To run this project locally, you will need to clone the repository and install the dependencies from the `requirements.txt` file.
 
 
-## Clone the repository
+## Clone the repository:
 ```
 git clone 
 ```
@@ -30,7 +30,7 @@ cd Farm_Agentic_AI
 pip install -r requirements.txt
 ```
 
-## Run the Streamlit app
+## Run the Streamlit app:
 ```
 streamlit run app.py
 ```
