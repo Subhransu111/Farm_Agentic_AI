@@ -17,20 +17,20 @@ https://farmagenticai-4qgb6abvejtpbenwelu7fx.streamlit.app/
 To run this project locally, you will need to clone the repository and install the dependencies from the `requirements.txt` file.
 
 
-# Clone the repository
+## Clone the repository
 ```
 git clone 
 ```
-# Navigate into the project directory
+## Navigate into the project directory
 ```
 cd Farm_Agentic_AI
 ```
-# Install dependencies
+## Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-# Run the Streamlit app
+## Run the Streamlit app
 ```
 streamlit run app.py
 ```
