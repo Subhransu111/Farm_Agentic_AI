@@ -14,7 +14,7 @@ This is a project demonstrating an AI agent for agricultural applications, built
 You can view the live deployed application here:
 https://farmagenticai-4qgb6abvejtpbenwelu7fx.streamlit.app/
 
-To run this project locally, you will need to clone the repository and install the dependencies from the `requirements.txt` file.
+
 
 
 ## Clone the repository:
